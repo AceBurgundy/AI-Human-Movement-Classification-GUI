@@ -15,10 +15,10 @@ from [ildoonet-tf-pose-estimation](https://github.com/jiajunhua/ildoonet-tf-pose
 
 ## Samples
 ![Standing](results/standing.png)
-![Running](results/standing.png)
-![Sitting](results/standing.png)
-![Walking](results/standing.png)
-![Jumping](results/standing.png)
+![Running](results/running.png)
+![Sitting](results/sitting.png)
+![Walking](results/walking.png)
+![Jumping](results/jumping.png)
 
 ## Contact
 For questions or suggestions, feel free to reach out at:
