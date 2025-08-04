@@ -1,5 +1,5 @@
 
-# Human Movement Classification
+# AI Human Movement Classification GUI
 A human movement classification GUI app created with OpenPose human movement classfication and CustomTkinter for GUI
 
 from [ildoonet-tf-pose-estimation](https://github.com/jiajunhua/ildoonet-tf-pose-estimation)
